@@ -1,0 +1,1 @@
+# ConsoleAppTestLog4NetVerbose
